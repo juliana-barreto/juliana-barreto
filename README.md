@@ -45,10 +45,8 @@ Adoro trabalhar com Java e resolver problemas complexos no ambiente Linux.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Juliana-Barreto">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Juliana-Barreto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-Barreto&layout=compact&theme=dracula&langs_count=6"/>
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=juliana-barreto&show_icons=true&theme=dracula&bg_color=0d1117&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliana-barreto&layout=compact&theme=dracula&bg_color=0d1117&hide_border=true" />
 </div>
 
 ---
