@@ -44,7 +44,7 @@ Adoro trabalhar com Java e resolver problemas complexos no ambiente Linux.
 
 ### 1. Spring Sales API
 > *API RESTful para gestão de vendas e clientes. Focada em escalabilidade e modelagem de dados eficiente.*
-- **Techs:** Java, Spring Boot, Spring Data JPA, PostgreSQL.
+- **Techs:** Java, Spring Boot, Spring Data JPA, MariaDB.
 - **Destaque:** Implementação de tratamento de exceções personalizado e validações robustas.
 - [🔗 Acessar Repositório](https://github.com/juliana-barreto/spring-ecommerce)
 
