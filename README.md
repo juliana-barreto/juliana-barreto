@@ -1,4 +1,4 @@
-# Olá, eu sou a Juliana Barreto! 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Juliana%20Barreto&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Linux&descAlignY=51&descAlign=62)
 
 Sou uma desenvolvedora com foco em **Backend**, atualmente expandindo meus conhecimentos para me tornar **Fullstack**.
 
