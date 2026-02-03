@@ -44,7 +44,7 @@ Adoro trabalhar com Java e resolver problemas complexos no ambiente Linux.
 
 ### 1. Spring Sales API
 > *API RESTful para gestão de vendas e clientes. Focada em escalabilidade e modelagem de dados eficiente.*
-- **Techs:** Java, Spring Boot, Spring Data JPA, MariaDB.
+- **Techs:** Java, Spring Boot, Spring Data JPA, PostgreSQL.
 - **Destaque:** Implementação de tratamento de exceções personalizado e validações robustas.
 - [🔗 Acessar Repositório](https://github.com/juliana-barreto/spring-ecommerce)
 
@@ -58,7 +58,7 @@ Adoro trabalhar com Java e resolver problemas complexos no ambiente Linux.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO_AQUI">
+  <a href="https://github.com/juliana-barreto">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliana-barreto&show_icons=true&theme=dark&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliana-barreto&layout=compact&theme=dark&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=true"/>
   </a>
