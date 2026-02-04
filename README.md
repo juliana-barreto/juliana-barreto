@@ -42,7 +42,7 @@ Adoro trabalhar com Java e resolver problemas complexos no ambiente Linux.
 
 ## 📂 Principais Projetos
 
-### 1. Spring Sales API
+### 1. API Restful de E-commerce
 > *API RESTful para gestão de vendas e clientes. Focada em escalabilidade e modelagem de dados eficiente.*
 - **Techs:** Java, Spring Boot, Spring Data JPA, MariaDB.
 - **Destaque:** Implementação de tratamento de exceções personalizado e validações robustas.
