@@ -37,7 +37,6 @@ Sou uma desenvolvedora com foco em **Backend**, atualmente expandindo meus conhe
 | :--- | :--- | :--- |
 | **🛍️ API E-commerce** | API RESTful completa para gestão de vendas e clientes. Foco em tratamento de exceções (Custom Exceptions), DTOs e validações robustas. | `Java` `Spring Boot` `JPA` `PostgreSQL` |
 | **🎓 Harvard CS50x** | Minhas soluções para os problem sets do curso de CS da Harvard. Inclui implementações de estruturas de dados e algoritmos de baixo nível. | `C` `Python` `SQL` `Flask` |
-| **💑 PairLife (WIP)** | Aplicação web focada em casais. Gerenciamento de rotinas e objetivos compartilhados. | `Python` `Flask` `MySQL` `Bootstrap` |
 
 ---
 
