@@ -35,17 +35,9 @@ Sou uma desenvolvedora com foco em **Backend**, atualmente expandindo meus conhe
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **🛍️ API E-commerce** | API RESTful completa para gestão de vendas e clientes. Foco em tratamento de exceções (Custom Exceptions), DTOs e validações robustas. | `Java` `Spring Boot` `JPA` `PostgreSQL` |
-| **🎓 Harvard CS50x** | Minhas soluções para os problem sets do curso de CS da Harvard. Inclui implementações de estruturas de dados e algoritmos de baixo nível. | `C` `Python` `SQL` `Flask` |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=juliana-barreto&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliana-barreto&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+| [Sistema de Gestão de Pedidos](https://github.com/juliana-barreto/order-management-api) | API RESTful de alta performance para e-commerce focada em otimização de consultas ao banco de dados e segurança multicamadas. | `Java` `Spring Boot` `JPA` `PostgreSQL` |
+|[Motor de Faturamento & Assinaturas SaaS](https://github.com/juliana-barreto/saas-billing-engine)| Motor de faturamento backend para gestão escalável de assinaturas recorrentes e cálculos financeiros de alta precisão. | `Java` `Spring Boot` `JPA` `PostgreSQL` |
+|[GitHired](https://github.com/juliana-barreto/git-hired) | CRM pessoal para automação e gestão estratégica de candidaturas de emprego utilizando web scraping e análise de dados reativa. |  `Python` `Flask` `SQLite` `Playwright` |
 
 ---
 
