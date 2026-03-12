@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:ff79c6&height=300&section=header&text=Juliana%20Barreto&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20React%20Native%20%7C%20TypeScript&descAlignY=51&descAlign=62)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:ff79c6&height=300&section=header&text=Juliana%20Barreto&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20React%20Native%20%7C%20TypeScript&descAlignY=51&descAlign=62" width="100%" alt="Header" />
 
 Sou uma desenvolvedora com sólida base em arquitetura Back-end utilizando Java e Spring Boot. Tenho facilidade comprovada para transitar entre diferentes ecossistemas, atuando hoje também com desenvolvimento Mobile e Front-end.
 
