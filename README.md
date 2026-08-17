@@ -8,7 +8,7 @@ Sou uma desenvolvedora com sólida base em arquitetura Back-end utilizando Java 
 - 💻 Arquitetando APIs e sistemas resilientes no **Back-end com Java & Spring Boot**.
 - 🧠 Base algorítmica sólida, o que me permite rápida adaptação a novas linguagens e ferramentas, como Python, TypeScript e frameworks de teste.
 - 🏗️ **Próximo passo:** Desenvolvendo o Front-end em **React e TypeScript** para minha API de E-commerce.
-- 🐧 Usuária entusiasta de **Linux** e automações (Playwright).
+- 🐧 Usuária entusiasta de **Linux** e automações.
 
 ---
 
